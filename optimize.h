@@ -13,7 +13,6 @@
 
 using namespace std;
 
-
 class OptiEntry {
 public:
     vector<int> time;
